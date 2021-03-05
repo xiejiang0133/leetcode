@@ -1,0 +1,2 @@
+# leetcode
+pracetice of leetCode
